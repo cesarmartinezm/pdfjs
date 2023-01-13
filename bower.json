@@ -1,15 +1,22 @@
 {
-  "name": "pdfjs",
-  "version": "1.0.0",
+  "name": "pdfjs-custom",
+  "version": "1.0.4",
   "authors": [
     "Mozilla"
   ],
   "description": "plugin PDF.js de mozilla",
+  "moduleType": [
+    "globals"
+  ],
   "keywords":[
     "css",
     "html",
     "js"
   ],
-  "license": "MIT",
-  "homepage": "https://github.com/cesarmartinezm/pdfjs-custom.git"
+  "license": "Apache",
+  "homepage": "https://github.com/cesarmartinezm/pdfjs-custom.git",
+  "repository":{
+    "type": "git",
+    "url": "git://github.com/cesarmartinezm/pdfjs-custom.git"
+  }
 }

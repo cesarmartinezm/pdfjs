@@ -5,6 +5,5 @@
     "Mozilla"
   ],
   "description": "plugin PDF.js de mozilla",
-  "license": "Mozilla",
-  "homepage": "https://mozilla.github.io/pdf.js/"
+  "license": "Mozilla"
 }

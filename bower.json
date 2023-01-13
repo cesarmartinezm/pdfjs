@@ -1,0 +1,10 @@
+{
+  "name": "pdfjs",
+  "version": "1.0.0",
+  "authors": [
+    "Mozilla"
+  ],
+  "description": "plugin PDF.js de mozilla",
+  "license": "Mozilla",
+  "homepage": "https://mozilla.github.io/pdf.js/"
+}

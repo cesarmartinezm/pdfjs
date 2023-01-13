@@ -5,5 +5,10 @@
     "Mozilla"
   ],
   "description": "plugin PDF.js de mozilla",
-  "license": "Mozilla"
+  "keywords":[
+    "css",
+    "html",
+    "js"
+  ],
+  "license": "MIT"
 }
